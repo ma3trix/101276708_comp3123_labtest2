@@ -8,6 +8,23 @@ A simple weather app built with React that allows users to select a city and vie
 - Automatically fetch and display the current weather information for the selected city.
 - Displays temperature, weather description, and an icon representing the weather condition.
 
+##Preview 
+
+<img width="2012" alt="Screenshot 2023-12-01 at 10 40 50 AM" src="https://github.com/ma3trix/101276708_comp3123_labtest2/assets/33009736/a0d24008-bffb-4d65-a94e-f66764fecd4d">
+
+___
+
+<img width="1896" alt="Screenshot 2023-12-01 at 10 42 44 AM" src="https://github.com/ma3trix/101276708_comp3123_labtest2/assets/33009736/eb225317-efe4-4501-a445-10253d849bde">
+
+__
+
+<img width="2012" alt="Screenshot 2023-12-01 at 10 42 24 AM" src="https://github.com/ma3trix/101276708_comp3123_labtest2/assets/33009736/bff493ee-a913-472b-8ab3-99bfac46c9f2">
+
+
+
+
+
+
 ## Getting Started
 
 ### Prerequisites
