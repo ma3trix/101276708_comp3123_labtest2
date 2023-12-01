@@ -21,6 +21,10 @@ A simple weather app built with React that allows users to select a city and vie
 #Forecast
 <img width="2012" alt="Screenshot 2023-12-01 at 10 42 24 AM" src="https://github.com/ma3trix/101276708_comp3123_labtest2/assets/33009736/bff493ee-a913-472b-8ab3-99bfac46c9f2">
 
+##Postman API call
+<img width="2032" alt="Screenshot 2023-12-01 at 10 58 23 AM" src="https://github.com/ma3trix/101276708_comp3123_labtest2/assets/33009736/abd32691-029a-4f5d-93bd-af8849d96681">
+
+
 
 
 
